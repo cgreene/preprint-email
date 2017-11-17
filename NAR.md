@@ -6,7 +6,7 @@ Thank you for the invitation to review. I have great respect for the quality of 
 
 Your journal policy is that articles in your journal may not cite preprints of manuscripts. There appears to be no valid reason for this policy, which appears to be unique among journals, and it hampers the practice of scientific communication. Citation is a way of identifying the origin of an idea or method. If we cannot cite a preprint, the chain of credit is broken. This break in the chain diminishes the value of any work published in your journal.
 
-In any case, thank you for the invitation. I will not submit any of our lab's work to you and will continue to decline review requests from your journal until your policy is revised. This is too bad, because the NAR webserver issue has generally been one that I have viewed favorably.
+In any case, thank you for the invitation. Because this policy harms the practice of science, I will not submit any of our lab's work to you and will continue to decline review requests from your journal until it is revised. This is too bad, because the NAR webserver issue has generally been one that I have viewed favorably.
 
 Sincerely,
 Casey
